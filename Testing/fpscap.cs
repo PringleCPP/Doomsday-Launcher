@@ -1,5 +1,11 @@
+// --------------- NOTES AND CREDITS -------------- 
 // FPS UNCAPPER FOR BEDROCK MC BY PRINGLE#0555
 // Original credits to LIKETOACCESS for the python script.
+// --------------- NOTES AND CREDITS -------------- 
+
+// --------------- RELEASE OF PYTHON VERSION -------------- 
+// https://github.com/LikeToAccess/NO-CAP/releases/tag/v1.0
+// --------------- RELEASE OF PYTHON VERSION -------------- 
 
 namespace Namespace {
     
